@@ -1,5 +1,8 @@
 # RopeRunner – Rope-Climbing Search-and-Rescue Robot
 
+<img width="750" height="860" alt="IMG_3243" src="https://github.com/user-attachments/assets/d2367531-42ff-43a4-ba50-38ef6cb610b1" />
+
+
 RopeRunner is a rope-climbing robot developed to support search-and-rescue operations in dangerous or hard-to-reach environments.
 
 The project explores how robotics and embedded systems can be used to improve access to challenging locations while reducing the risks faced by human rescuers.
@@ -22,7 +25,7 @@ The robot uses a motor-driven mechanism to move along a rope, with an ESP32 micr
 - Mechanical Design: SolidWorks
 - Sensors: Rotary encoder and voltage sensor
 - Power: 2-cell (7.4V) battery system
-- 
+  
 
 ## Key Features
 
@@ -43,7 +46,8 @@ As the team lead and a member of the engineering team, I contributed to the deve
 - Integrating motor control and speed adjustment.
 - Working with encoder feedback for movement and distance tracking.
 - Contributing to system testing, troubleshooting, and team coordination.
-- 
+  
+<img width="750" height="1364" alt="IMG_3218" src="https://github.com/user-attachments/assets/697bf6ab-45f9-4b08-bcf7-08ab9673d156" />
 
 
 ## Project Outcome
@@ -57,10 +61,12 @@ Project Gallery
 
 https://github.com/user-attachments/assets/c586060d-f6e3-43d2-888c-29459818e6a9
 
+<img width="853" height="627" alt="393d645f-64be-4b81-94ef-7eb9c525d577" src="https://github.com/user-attachments/assets/ee5441a1-b130-4af2-a6da-73bb764b924f" />
 
 
-<img width="1920" height="2560" alt="e7c2b80d-3a3b-4cc7-ba1a-e9d8b3e40521" src="https://github.com/user-attachments/assets/8937de10-4694-4d14-b215-085215bc06e9" />
-<img width="720" height="959" alt="1b4b67f9-aefa-46b0-be95-3a67089229da" src="https://github.com/user-attachments/assets/63994cf8-3287-4bbd-be49-4d83a3c4a36d" />
+<img width="720" height="959" alt="1b4b67f9-aefa-46b0-be95-3a67089229da" src="https://github.com/user-attachments/assets/358cc80b-113d-49a0-ab11-9ac9bc26c3f6" />
+
+
 <img width="3840" height="2160" alt="2F18EAE1-5335-4777-917D-3E4FE7CCF9CB" src="https://github.com/user-attachments/assets/3b3c0fd6-2872-488c-be5c-b547d4ab0475" />
 
 
